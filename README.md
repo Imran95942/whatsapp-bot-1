@@ -24,7 +24,7 @@
 <a href="https://chat.whatsapp.com/D7L8NP2Vnz7Eplx4OAvZdP"><img title="WHATSAPP GROUP" src="https://img.shields.io/badge/Whatsapp Group-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 ## DEPLOY HEROKUAPP
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/inirey/whatsapp-bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Imran95942/whatsapp-bot-1)
 * If you already have the session code, just create a session.data.json file and paste the code in the file
 * and for termux users, please switch to the termux branch if it still doesn't support please just run using herokuapp, thanks
 
